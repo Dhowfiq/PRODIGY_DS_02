@@ -5,11 +5,11 @@ This project analyzes the Titanic dataset to explore relationships between varia
 
 PROJECT GOALS:
 
--Perform data cleaning to prepare the dataset for analysis.
--Conduct exploratory data analysis (EDA) to gain insights into the Titanic dataset.
--Explore relationships between variables such as passenger class, age, gender, and survival.
--Visualize data patterns and trends using charts and graphs.
--Draw conclusions and provide insights based on the analysis.
+Perform data cleaning to prepare the dataset for analysis.
+Conduct exploratory data analysis (EDA) to gain insights into the Titanic dataset.
+Explore relationships between variables such as passenger class, age, gender, and survival.
+Visualize data patterns and trends using charts and graphs.
+Draw conclusions and provide insights based on the analysis.
 
 DATASET:
 
